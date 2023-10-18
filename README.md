@@ -3,7 +3,7 @@
 DAKboard OS is a simple way to connect to DAKboard using a Raspberry Pi or ORange Pi 3 LTS computer.  DAKboard is a customizable display for photos, calendar, news, weather and so much more! DAKboard makes it easy to get organized so you won’t miss a thing.
 
 ## Installation
-Check out our easy guides for installing DAKboard OS can be found for the Raspberry Pi and Orange Pi 3 LTS.
+Check out our easy guides for installing DAKboard OS for the Raspberry Pi and Orange Pi 3 LTS.
 
 <a href="https://dakboard.freshdesk.com/support/solutions/articles/35000125880-download-and-install-the-dakboard-os-for-raspberry-pi">Raspberry Pi</a>
 
